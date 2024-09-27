@@ -1,4 +1,4 @@
-const getTotalIsles = require('./program1');
+noconst getTotalIsles = require('./program1');
 const assert = require("assert");
 
 
